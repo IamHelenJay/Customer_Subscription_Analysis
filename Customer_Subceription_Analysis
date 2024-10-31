@@ -1,0 +1,4 @@
+## Project Overview
+### This project analyzes customer subscription patterns to extract actionable insights for improving retention, understanding churn behavior, and optimizing revenue.
+The analysis covers customer segmentation, churn within specific timeframes, average subscription duration, and sales performance across regions. 
+Each analysis is documented for clarity, with reproducible SQL queries, Power BI visualizations, and Excel summaries.
