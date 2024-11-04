@@ -23,3 +23,34 @@ subscription types.
 3. Power BI
 For Building a dashboard that visualizes key customer segments such as;
 - cancellations, and subscription trends.
+
+## Data Cleaning and Preparation
+---
+In the initial stage of data cleaning and preparation, we performed the following steps to ensure the dataset was accurate and ready for analysis:
+- Data Loading and Inspection
+- Handling Missing Data
+- Data Cleaning and Formatting
+
+## Exploratory Data Analysis 
+---
+The EDA involves the following key questions;
+- retrieve the total number of customers from each region.
+- find the most popular subscription type by the number of customers.
+- find customers who canceled their subscription within 6 months.
+- calculate the average subscription duration for all customers.
+- find customers with subscriptions longer than 12 months.
+- calculate total revenue by subscription type.
+- find the top 3 regions by subscription cancellations.
+- find the total number of active and canceled subscriptions.
+
+## Data Analysis
+---
+Below are examples of some SQL queries and DAX expressions used during the analysis to extract and analyze key insights from the customer dataset:
+```
+SQL CODES
+
+1. Retrieve All Data for Initial Inspection
+SELECT * FROM CustomerData
+```
+
+
