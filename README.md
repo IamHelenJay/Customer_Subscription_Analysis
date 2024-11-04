@@ -13,7 +13,7 @@ The primary source of data used in this analysis is the CustomerData set https:/
 
 ## Tools Used
 ---
-1. Microsoft Excel
+1. Microsoft Excel [Download here](https://www.microsoft.com)
 - For data cleaning and analysis, including creating pivot tables to find subscription patterns, calculate the average subscription duration and identify the most popular 
 subscription types.
 
