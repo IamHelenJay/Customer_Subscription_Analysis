@@ -1,11 +1,11 @@
 # Project Title; Subscription Analysis
 ---
 ## Table of Contents
-- [Project Overview].(#project-overview)
-- [Data Sources].(#data-sources)
-- [Data Cleaning and Preparation].(#data-leaning-and-preparation)
-- [Exploratory Data Analysis].(exploratory-data-analysis)
-- [Data Analysis].(data-analysis)
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Data Cleaning and Preparation](#data-leaning-and-preparation)
+- [Exploratory Data Analysis](exploratory-data-analysis)
+- [Data Analysis](data-analysis)
 - [Recommendations](recommendations)
 - 
 - 
