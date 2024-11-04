@@ -11,15 +11,15 @@ This data analysis project aims to provide insights into customer subscription t
 The primary source of data used in this analysis is the CustomerData set https://1drv.ms/u/s!Ap5Z5GRl9j5YhcdWfrVMRJ4XGP4dQQ?e=icEhNj
 
 
-## Tools Used;
+## Tools Used
 ---
-- Microsoft Excel
-For data cleaning and analysis, including creating pivot tables to find subscription patterns, calculate the average subscription duration and identify the most popular 
+1. Microsoft Excel
+- For data cleaning and analysis, including creating pivot tables to find subscription patterns, calculate the average subscription duration and identify the most popular 
 subscription types.
 
-- SQL (Structure Query Language)
-For Data retrivals
+2.  SQL (Structure Query Language)
+- For Data retrivals
 
-- Power BI
+3. Power BI
 For Building a dashboard that visualizes key customer segments such as;
 - cancellations, and subscription trends.
