@@ -98,47 +98,37 @@ TotalCanceled | TotalActive
  ---
  #### The analysis yielded the following quantitative insights from the customer subscription data:
 
-1. Total Number of Customers by Region:
+- #### Total Number of Customers by Region:
 North: 8,433 customers
 East: 8,488 customers
 South: 8,446 customers
 West: 8,420 customers
-
 The distribution of customers is relatively balanced across regions, with the East leading by a small margin.  
 
-2. Most Popular Subscription Type
+- #### Most Popular Subscription Type
+The Basic subscription type with a total of 16,921 customers is overwhelmingly the most popular, showing a strong preference for the entry-level option.
 
-Basic: 16,921 customers
-
-The Basic subscription type is overwhelmingly the most popular, showing a strong preference for the entry-level option.
-
-3. Cancellations Within 6 Months
-
+- #### Cancellations Within 6 Months
 Total of 15,175 customers canceled their subscriptions within 6 months. This high early churn rate points to potential challenges in customer onboarding or product fit that need addressing to improve retention.
 
-4. Average Subscription Duration
-
+- #### Average Subscription Duration
 Average: 365 days
 
-5. Customers with Subscriptions Longer Than 12 Months
-
+- #### Customers with Subscriptions Longer Than 12 Months
 A total 11,820 customers show long-term loyalty, suggesting that there is a segment of committed users.
 
-6. Total Revenue by Subscription Type:
-
+- #### Total Revenue by Subscription Type:
 Basic: $33,776,735
 Premium: $16,899,064
 Standard: $16,864,376
 The Basic subscription generates the most revenue due to its large customer base.
 
-7. Top 3 Regions by Subscription Cancellations:
-
+- #### Top 3 Regions by Subscription Cancellations:
 North: 5,067 cancellations
 South: 5,064 cancellations
 West: 5,044 cancellations
 
-8. Total Active vs. Canceled Subscriptions:
-
+- #### Total Active vs. Canceled Subscriptions:
 Canceled: 15,175 subscriptions
 Active: 18,612 subscriptions
 Insight: The number of active subscriptions (18,612) compared to canceled ones (15,175) shows that the company maintains more active subscribers but with a notable proportion of churn.
