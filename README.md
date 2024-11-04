@@ -98,16 +98,63 @@ TotalCanceled | TotalActive
  ---
  #### The analysis yielded the following quantitative insights from the customer subscription data:
 
-- Total Number of Customers by Region:
+1. Total Number of Customers by Region:
 North: 8,433 customers
 East: 8,488 customers
 South: 8,446 customers
 West: 8,420 customers
 
-#### The distribution of customers is relatively balanced across regions, with the East leading by a small margin.  
+The distribution of customers is relatively balanced across regions, with the East leading by a small margin.  
 
-- Most Popular Subscription Type
+2. Most Popular Subscription Type
 
 Basic: 16,921 customers
-#### The Basic subscription type is overwhelmingly the most popular, showing a strong preference for the entry-level option.
 
+The Basic subscription type is overwhelmingly the most popular, showing a strong preference for the entry-level option.
+
+3. Cancellations Within 6 Months
+
+Total of 15,175 customers canceled their subscriptions within 6 months. This high early churn rate points to potential challenges in customer onboarding or product fit that need addressing to improve retention.
+
+4. Average Subscription Duration
+
+Average: 365 days
+
+5. Customers with Subscriptions Longer Than 12 Months
+
+A total 11,820 customers show long-term loyalty, suggesting that there is a segment of committed users.
+
+6. Total Revenue by Subscription Type:
+
+Basic: $33,776,735
+Premium: $16,899,064
+Standard: $16,864,376
+The Basic subscription generates the most revenue due to its large customer base.
+
+7. Top 3 Regions by Subscription Cancellations:
+
+North: 5,067 cancellations
+South: 5,064 cancellations
+West: 5,044 cancellations
+
+8. Total Active vs. Canceled Subscriptions:
+
+Canceled: 15,175 subscriptions
+Active: 18,612 subscriptions
+Insight: The number of active subscriptions (18,612) compared to canceled ones (15,175) shows that the company maintains more active subscribers but with a notable proportion of churn.
+
+## Recommendations
+---
+Based on the results and findings from the customer data analysis, the following recommendations are suggested to improve customer retention, maximize revenue, and enhance customer satisfaction:
+- Enhance Onboarding and Early Engagement:
+High early cancellation rates suggest potential issues with the initial customer experience.
+Implement a structured onboarding program with tutorials, welcome emails, and interactive support during the first three months to engage new customers and reduce churn.
+
+- Develop Loyalty Programs for Long-Term Subscribers:
+ While a significant number of customers have subscriptions lasting over 12 months, further enhancing loyalty can maximize retention.
+Recommendation: Introduce loyalty rewards that offer exclusive perks, discounts, or added benefits for long-term customers to foster sustained engagement and satisfaction.
+
+- Promote Upgrades to Higher-Tier Subscriptions:
+The Basic plan has the most subscribers, but higher-tier plans generate more revenue per customer.
+Recommendation: Design targeted marketing efforts that showcase the unique features of Premium and Standard plans, offering personalized promotions to motivate Basic subscribers to upgrade, thus boosting overall revenue.
+ 
