@@ -7,9 +7,7 @@
 - [Exploratory Data Analysis](exploratory-data-analysis)
 - [Data Analysis](data-analysis)
 - [Recommendations](recommendations)
-- 
-- 
-- 
+  
 
 ## Project Overview
 ---
