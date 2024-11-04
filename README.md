@@ -46,11 +46,26 @@ The EDA involves the following key questions;
 ## Data Analysis
 ---
 Below are examples of some SQL queries and DAX expressions used during the analysis to extract and analyze key insights from the customer dataset:
-```
+
 SQL CODES
 
 1. Retrieve All Data for Initial Inspection
+```
 SELECT * FROM CustomerData
 ```
+---
+2. Retrieve the Total Number of Customers from Each Region
+```
+SELECT Region, COUNT(CustomerID) AS TotalCustomers
+FROM CustomerData
+GROUP BY Region;
+```
+Region | TotalCustomers
+-------|------------------
+North	 | 8433
+East	 | 8488
+South	 | 8446
+West	 | 8420
+
 
 
