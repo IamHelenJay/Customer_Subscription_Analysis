@@ -1,38 +1,14 @@
 # Project Title; Subscription Analysis
 ---
-## Project Overview
-This data analysis project aims to provide insights into customer subscription trends and behavior...
-
-## Data Sources
-The primary source of data used here is...
-
-## Tools Used
-Microsoft Excel for data cleaning and analysis...
-
-## Data Cleaning and Preparation
-In the initial stage of data cleaning and preparation, we performed the following steps...
-
-## Exploratory Data Analysis
-EDA involved the exploring of the Data to answer some questions about the Data such as...
-
-## Data Analysis
-This is where we include some basic lines of code or queries used during the analysis...
-
-## Results and Findings
-1. Total Number of Customers by Region: ...
-2. Most Popular Subscription Type: ...
-3. Cancellations within 6 Months: ...
-
-## Recommendations
-Based on the analysis, we recommend the following actions...
-
-## Acknowledgments
-We would like to thank...
-
-## Future Work
-In the future, we aim to...
-
-  
+## Table of Contents;
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools Used](#tools-used)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results and Findings](#results-and-findings)
+- [Recommendations](#recommendations)
 
 ## Project Overview
 ---
