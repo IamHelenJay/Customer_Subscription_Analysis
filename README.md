@@ -77,14 +77,6 @@ East	 | 8488
 South	 | 8446
 West	 | 8420
 
-
-
-Totalsales | Region
------------|--------------
-10000      | North
-2000       | South
-
-
 ---
 3. find the most popular subscription type by the number of customers
 ```
