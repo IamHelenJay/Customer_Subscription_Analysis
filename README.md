@@ -13,11 +13,12 @@
 ## Project Overview
 ---
 This data analysis project aims to provide insights into customer subscription trends and behavior to support strategic decision-making, The analysis focuses on understanding subscription patterns, cancellation trends, and  top-performing subscription types, regional breakdowns of customer activity. The goal is to enable the company to make data-driven decisions that improve customer satisfaction, reduce churn, and drive revenue growth.
+![Customer Report Image](https://github.com/user-attachments/assets/45845c1d-d6c6-47f0-9dfb-fcc6dc729f68)
 
 
 ## Data Sources
 ---
-The primary source of data used in this analysis is the CustomerData set https://1drv.ms/u/s!Ap5Z5GRl9j5YhcdWfrVMRJ4XGP4dQQ?e=icEhNj
+The primary source of data used in this analysis is the CustomerData set 
 
 
 ## Tools Used
@@ -76,7 +77,7 @@ East	 | 8488
 South	 | 8446
 West	 | 8420
 
-https://1drv.ms/u/s!Ap5Z5GRl9j5Yhcg3dYkg4rY9Unujgw?e=XZ5J0w
+
 
 ---
 3. find the most popular subscription type by the number of customers
