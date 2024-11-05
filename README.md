@@ -1,9 +1,5 @@
 # Project Title; Subscription Analysis
 ---
-## Table of Contents
-
- 
-
 ## Project Overview
 This data analysis project aims to provide insights into customer subscription trends and behavior...
 
