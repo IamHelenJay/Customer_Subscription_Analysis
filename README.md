@@ -1,4 +1,4 @@
-# Project Title; Subscription Analysis
+# Project Title - Subscription Analysis
 ---
 ## Table of Contents;
 - [Project Overview](#project-overview)
@@ -91,6 +91,8 @@ Basic            | 16921
 Premium	         | 8446     
 Standard         | 8420   
 
+![image](https://github.com/user-attachments/assets/a735dfbb-1057-45ef-80c5-fa51f517be79)
+
 ---
 4. find the total number of active and canceled subscriptions
 ```
@@ -102,6 +104,9 @@ FROM CustomerData;
 TotalCanceled | TotalActive
 --------------|-------------
 15175         | 18612
+
+![image](https://github.com/user-attachments/assets/1b628051-7749-4e2e-b6ef-d08ed9e9071e)
+
 
 
 5. DAX Expressions
