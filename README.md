@@ -104,7 +104,7 @@ TotalCanceled | TotalActive
 15175         | 18612
 
 
- DAX Expressions
+5. DAX Expressions
 ```
 Total Cancellations = CALCULATE(COUNT(CustomerData[CustomerID]), CustomerData[Canceled] = TRUE)
 ```
