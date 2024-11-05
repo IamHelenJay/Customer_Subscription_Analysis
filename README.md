@@ -109,6 +109,10 @@ TotalCanceled | TotalActive
 Total Cancellations = CALCULATE(COUNT(CustomerData[CustomerID]), CustomerData[Canceled] = TRUE)
 ```
 
+```
+6. Total Revenue = SUM(CustomerData[Revenue])
+```
+
  ---
 ## Results and Findings
  ---
