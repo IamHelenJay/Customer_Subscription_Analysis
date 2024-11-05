@@ -110,7 +110,7 @@ Total Cancellations = CALCULATE(COUNT(CustomerData[CustomerID]), CustomerData[Ca
 ```
 
 ```
-6. Total Revenue = SUM(CustomerData[Revenue])
+Total Revenue = SUM(CustomerData[Revenue])
 ```
 
  ---
