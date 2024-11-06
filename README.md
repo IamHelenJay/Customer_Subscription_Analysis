@@ -130,7 +130,8 @@ South: 8,446 customers
 West: 8,420 customers
 The distribution of customers is relatively balanced across regions, with the East leading by a small margin.  
 
-![image](https://github.com/user-attachments/assets/d3fea181-40b9-4b2c-a744-cfb4dfb51c31)
+![image](https://github.com/user-attachments/assets/94f82987-dbf7-4933-8fd5-b710ed04c61b)
+
 
 
 - #### Most Popular Subscription Type
