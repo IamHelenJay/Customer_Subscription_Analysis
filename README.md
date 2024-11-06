@@ -13,7 +13,7 @@
 ## Project Overview
 ---
 This data analysis project aims to provide insights into customer subscription trends and behavior to support strategic decision-making, The analysis focuses on understanding subscription patterns, cancellation trends, and  top-performing subscription types, regional breakdowns of customer activity. The goal is to enable the company to make data-driven decisions that improve customer satisfaction, reduce churn, and drive revenue growth.
-![Customer Report Image](https://github.com/user-attachments/assets/45845c1d-d6c6-47f0-9dfb-fcc6dc729f68)
+
 
 
 ## Data Sources
@@ -130,6 +130,9 @@ South: 8,446 customers
 West: 8,420 customers
 The distribution of customers is relatively balanced across regions, with the East leading by a small margin.  
 
+![image](https://github.com/user-attachments/assets/d3fea181-40b9-4b2c-a744-cfb4dfb51c31)
+
+
 - #### Most Popular Subscription Type
 The Basic subscription type with a total of 16,921 customers is overwhelmingly the most popular, showing a strong preference for the entry-level option.
 
@@ -147,6 +150,9 @@ Basic: $33,776,735
 Premium: $16,899,064
 Standard: $16,864,376
 The Basic subscription generates the most revenue due to its large customer base.
+
+![image](https://github.com/user-attachments/assets/ee7326c2-b46f-4051-8800-bb2fbc6e8795)
+
 
 - #### Top 3 Regions by Subscription Cancellations:
 North: 5,067 cancellations
